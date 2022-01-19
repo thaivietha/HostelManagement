@@ -1,0 +1,36 @@
+
+.nav {
+	/*border-bottom: 1px solid #ccc;*/
+	/*margin-bottom: 50px;*/
+	background-color: red;
+}
+.bang{
+	overflow-x: auto;
+}
+.box{
+	/*margin-bottom: 10px;*/
+}
+.main{
+	margin-top: 5vh;
+}
+.columns a{
+	margin: 5px;
+	border-radius: 5px;
+}
+.columns a:hover{
+	
+}
+h4{
+
+}
+.tongquan{
+
+	background-color: #aef059;
+	
+}
+.khach{
+	background-color: #59a4f0;
+}
+.chiphi{
+	background-color: #f0d759;
+}
